@@ -14,7 +14,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://collections.library.yale.edu/manifests/15350031",
+          "id": "https://collections.library.yale.edu/manifests/15350031",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -23,7 +23,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15483060",
+          "id": "https://collections.library.yale.edu/manifests/15483060",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -32,7 +32,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15483113",
+          "id": "https://collections.library.yale.edu/manifests/15483113",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -41,7 +41,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15352317",
+          "id": "https://collections.library.yale.edu/manifests/15352317",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -50,7 +50,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15502057",
+          "id": "https://collections.library.yale.edu/manifests/15502057",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -59,7 +59,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15483035",
+          "id": "https://collections.library.yale.edu/manifests/15483035",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -68,7 +68,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15471514",
+          "id": "https://collections.library.yale.edu/manifests/15471514",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -77,7 +77,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15475670",
+          "id": "https://collections.library.yale.edu/manifests/15475670",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -86,7 +86,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15483902",
+          "id": "https://collections.library.yale.edu/manifests/15483902",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -95,7 +95,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15487193",
+          "id": "https://collections.library.yale.edu/manifests/15487193",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -104,7 +104,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15259756",
+          "id": "https://collections.library.yale.edu/manifests/15259756",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -113,7 +113,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15483061",
+          "id": "https://collections.library.yale.edu/manifests/15483061",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -122,7 +122,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15352111",
+          "id": "https://collections.library.yale.edu/manifests/15352111",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -131,7 +131,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15352203",
+          "id": "https://collections.library.yale.edu/manifests/15352203",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -140,7 +140,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15476492",
+          "id": "https://collections.library.yale.edu/manifests/15476492",
           "@type": "sc:Canvas",
           "label": {
             "none": [
@@ -149,7 +149,7 @@
           }
         },
         {
-          "@id": "https://collections.library.yale.edu/manifests/15494132",
+          "id": "https://collections.library.yale.edu/manifests/15494132",
           "@type": "sc:Canvas",
           "label": {
             "none": [
