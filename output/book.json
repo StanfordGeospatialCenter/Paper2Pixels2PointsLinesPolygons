@@ -1,8 +1,14 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@context": [
+    "http://iiif.io/api/presentation/2/context.json"
+  ],
   "@id": "http://example.org/iiif/book.json",
   "@type": "sc:Manifest",
-  "label": "Book of IIIF Manifests",
+  "label": {
+    "en": [
+      "Book of IIIF Manifests"
+    ]
+  },
   "sequences": [
     {
       "@type": "sc:Sequence",

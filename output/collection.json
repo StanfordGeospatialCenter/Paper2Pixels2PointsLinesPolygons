@@ -1,8 +1,14 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@context": [
+    "http://iiif.io/api/presentation/2/context.json"
+  ],
   "@id": "http://example.org/iiif/collection.json",
   "@type": "sc:Collection",
-  "label": "Collection of IIIF Manifests",
+  "label": {
+    "en": [
+      "Collection of IIIF Manifests"
+    ]
+  },
   "manifests": [
     {
       "@id": "https://collections.library.yale.edu/manifests/15350031",
