@@ -1,163 +1,156 @@
 {
-  "@context": [
-    "http://iiif.io/api/presentation/2/context.json"
-  ],
-  "@id": "http://example.org/iiif/book.json",
-  "@type": "sc:Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://example.org/iiif/book.json",
+  "type": "Manifest",
   "label": {
     "en": [
       "Book of IIIF Manifests"
     ]
   },
-  "sequences": [
+  "items": [
     {
-      "@type": "sc:Sequence",
-      "canvases": [
-        {
-          "id": "https://collections.library.yale.edu/manifests/15350031",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Le Royaume D'Ecosse ... Par le Sr. Robert."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15483060",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Cercle de Souabe ... Par le Sr. Robert."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15483113",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Cercle de Westphalie ... Par le Sr. Robert."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15352317",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Pays-Bas Catholiques ... / par le Sr. Robert ..."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15502057",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Turquie Europee\u0301nne par le Sr. Robert. Grouz."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15483035",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Le Cercle de Baviere ... Par le Sr. Robert Geog."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15471514",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Royaume de Danemarck ... Par le Sr. Robert Geographe."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15475670",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Le Royaume de Pologne ... Par le Sr. Robert de Vaugondy."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15483902",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Gouvernement General de Bretagne ... Par le Sr. Robert Ge\u0301ographe."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15487193",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Gouvernement Ge\u0301ne\u0301ral du Languedoc ... Par le Sr. Robert Geographe."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15259756",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Le Royaume D'Angletere ... Par le Sr. Robert Geographe."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15483061",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Circle de Souabe. Par le Sr. Robert, Geographer."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15352111",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Royaume D'Irlande ... Par le Sr. Robert. G. Delahaye Sculpsit."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15352203",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Les Provinces - Unis des Pays Bas ... Par le Sr. Robert Geog. Groux."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15476492",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Le Cercle Electoral du Rhin ... Srs. Sanson. Grave\u0301 par G.N. Delahaye, Par le Sr. Robert ..."
-            ]
-          }
-        },
-        {
-          "id": "https://collections.library.yale.edu/manifests/15494132",
-          "@type": "sc:Canvas",
-          "label": {
-            "none": [
-              "Partie septentrionale du royaume de Naples / par le Sr. Robert, ge\u0301ographe."
-            ]
-          }
-        }
-      ]
+      "id": "https://collections.library.yale.edu/manifests/15350031",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Le Royaume D'Ecosse ... Par le Sr. Robert."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15483060",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Cercle de Souabe ... Par le Sr. Robert."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15483113",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Cercle de Westphalie ... Par le Sr. Robert."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15352317",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Pays-Bas Catholiques ... / par le Sr. Robert ..."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15502057",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Turquie Europee\u0301nne par le Sr. Robert. Grouz."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15483035",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Le Cercle de Baviere ... Par le Sr. Robert Geog."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15471514",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Royaume de Danemarck ... Par le Sr. Robert Geographe."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15475670",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Le Royaume de Pologne ... Par le Sr. Robert de Vaugondy."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15483902",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Gouvernement General de Bretagne ... Par le Sr. Robert Ge\u0301ographe."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15487193",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Gouvernement Ge\u0301ne\u0301ral du Languedoc ... Par le Sr. Robert Geographe."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15259756",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Le Royaume D'Angletere ... Par le Sr. Robert Geographe."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15483061",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Circle de Souabe. Par le Sr. Robert, Geographer."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15352111",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Royaume D'Irlande ... Par le Sr. Robert. G. Delahaye Sculpsit."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15352203",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Les Provinces - Unis des Pays Bas ... Par le Sr. Robert Geog. Groux."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15476492",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Le Cercle Electoral du Rhin ... Srs. Sanson. Grave\u0301 par G.N. Delahaye, Par le Sr. Robert ..."
+        ]
+      }
+    },
+    {
+      "id": "https://collections.library.yale.edu/manifests/15494132",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Partie septentrionale du royaume de Naples / par le Sr. Robert, ge\u0301ographe."
+        ]
+      }
     }
   ]
 }
