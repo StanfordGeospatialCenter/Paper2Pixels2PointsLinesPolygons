@@ -2,7 +2,7 @@
   "@context": [
     "http://iiif.io/api/presentation/2/context.json"
   ],
-  "id": "http://example.org/iiif/book.json",
+  "@id": "http://example.org/iiif/book.json",
   "@type": "sc:Manifest",
   "label": {
     "en": [

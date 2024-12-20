@@ -32,3 +32,9 @@ To create a media group on davidrumsey.com, follow these steps:
 
 By utilizing media groups on the David Rumsey Map Collection website, you can efficiently curate and manage a collection of maps tailored to your specific needs, enhancing the georeferencing and digitizing process.
 
+## Links
+
+###  Collections to work with:  
+
+https://collections.library.yale.edu/catalog?f%5Bgenre_ssim%5D%5B%5D=Maps&fulltext_search=1&page=3&q=Par+le+Sr.+Robert&search_field=all_fields&view=list
+
