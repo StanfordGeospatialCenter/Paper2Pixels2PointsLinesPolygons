@@ -27,15 +27,13 @@
               "id": "https://collections.library.yale.edu/manifests/15350031/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15350031/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15350031/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15350031/canvas"
             }
           ]
@@ -61,15 +59,13 @@
               "id": "https://collections.library.yale.edu/manifests/15483060/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15483060/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483060/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15483060/canvas"
             }
           ]
@@ -95,15 +91,13 @@
               "id": "https://collections.library.yale.edu/manifests/15483113/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15483113/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483113/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15483113/canvas"
             }
           ]
@@ -129,15 +123,13 @@
               "id": "https://collections.library.yale.edu/manifests/15352317/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15352317/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15352317/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15352317/canvas"
             }
           ]
@@ -163,15 +155,13 @@
               "id": "https://collections.library.yale.edu/manifests/15502057/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15502057/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15502057/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15502057/canvas"
             }
           ]
@@ -197,15 +187,13 @@
               "id": "https://collections.library.yale.edu/manifests/15483035/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15483035/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483035/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15483035/canvas"
             }
           ]
@@ -231,15 +219,13 @@
               "id": "https://collections.library.yale.edu/manifests/15471514/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15471514/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15471514/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15471514/canvas"
             }
           ]
@@ -265,15 +251,13 @@
               "id": "https://collections.library.yale.edu/manifests/15475670/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15475670/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15475670/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15475670/canvas"
             }
           ]
@@ -299,15 +283,13 @@
               "id": "https://collections.library.yale.edu/manifests/15483902/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15483902/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483902/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15483902/canvas"
             }
           ]
@@ -333,15 +315,13 @@
               "id": "https://collections.library.yale.edu/manifests/15487193/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15487193/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15487193/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15487193/canvas"
             }
           ]
@@ -367,15 +347,13 @@
               "id": "https://collections.library.yale.edu/manifests/15259756/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15259756/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15259756/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15259756/canvas"
             }
           ]
@@ -401,15 +379,13 @@
               "id": "https://collections.library.yale.edu/manifests/15483061/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15483061/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483061/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15483061/canvas"
             }
           ]
@@ -435,15 +411,13 @@
               "id": "https://collections.library.yale.edu/manifests/15352111/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15352111/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15352111/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15352111/canvas"
             }
           ]
@@ -469,15 +443,13 @@
               "id": "https://collections.library.yale.edu/manifests/15352203/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15352203/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15352203/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15352203/canvas"
             }
           ]
@@ -503,15 +475,13 @@
               "id": "https://collections.library.yale.edu/manifests/15476492/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15476492/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15476492/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15476492/canvas"
             }
           ]
@@ -537,15 +507,13 @@
               "id": "https://collections.library.yale.edu/manifests/15494132/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://collections.library.yale.edu/manifests/15494132/image",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 1000,
-                  "height": 1000
-                }
-              ],
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15494132/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
               "target": "https://collections.library.yale.edu/manifests/15494132/canvas"
             }
           ]
