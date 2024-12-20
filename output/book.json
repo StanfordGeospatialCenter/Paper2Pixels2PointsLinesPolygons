@@ -15,7 +15,30 @@
         "none": [
           "Le Royaume D'Ecosse ... Par le Sr. Robert."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15350031/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15350031/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15350031/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15350031"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15483060",
@@ -24,7 +47,30 @@
         "none": [
           "Cercle de Souabe ... Par le Sr. Robert."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15483060/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15483060/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483060/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15483060"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15483113",
@@ -33,7 +79,30 @@
         "none": [
           "Cercle de Westphalie ... Par le Sr. Robert."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15483113/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15483113/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483113/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15483113"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15352317",
@@ -42,7 +111,30 @@
         "none": [
           "Pays-Bas Catholiques ... / par le Sr. Robert ..."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15352317/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15352317/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15352317/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15352317"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15502057",
@@ -51,7 +143,30 @@
         "none": [
           "Turquie Europee\u0301nne par le Sr. Robert. Grouz."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15502057/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15502057/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15502057/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15502057"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15483035",
@@ -60,7 +175,30 @@
         "none": [
           "Le Cercle de Baviere ... Par le Sr. Robert Geog."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15483035/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15483035/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483035/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15483035"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15471514",
@@ -69,7 +207,30 @@
         "none": [
           "Royaume de Danemarck ... Par le Sr. Robert Geographe."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15471514/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15471514/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15471514/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15471514"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15475670",
@@ -78,7 +239,30 @@
         "none": [
           "Le Royaume de Pologne ... Par le Sr. Robert de Vaugondy."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15475670/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15475670/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15475670/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15475670"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15483902",
@@ -87,7 +271,30 @@
         "none": [
           "Gouvernement General de Bretagne ... Par le Sr. Robert Ge\u0301ographe."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15483902/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15483902/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483902/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15483902"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15487193",
@@ -96,7 +303,30 @@
         "none": [
           "Gouvernement Ge\u0301ne\u0301ral du Languedoc ... Par le Sr. Robert Geographe."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15487193/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15487193/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15487193/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15487193"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15259756",
@@ -105,7 +335,30 @@
         "none": [
           "Le Royaume D'Angletere ... Par le Sr. Robert Geographe."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15259756/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15259756/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15259756/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15259756"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15483061",
@@ -114,7 +367,30 @@
         "none": [
           "Circle de Souabe. Par le Sr. Robert, Geographer."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15483061/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15483061/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15483061/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15483061"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15352111",
@@ -123,7 +399,30 @@
         "none": [
           "Royaume D'Irlande ... Par le Sr. Robert. G. Delahaye Sculpsit."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15352111/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15352111/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15352111/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15352111"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15352203",
@@ -132,7 +431,30 @@
         "none": [
           "Les Provinces - Unis des Pays Bas ... Par le Sr. Robert Geog. Groux."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15352203/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15352203/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15352203/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15352203"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15476492",
@@ -141,7 +463,30 @@
         "none": [
           "Le Cercle Electoral du Rhin ... Srs. Sanson. Grave\u0301 par G.N. Delahaye, Par le Sr. Robert ..."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15476492/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15476492/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15476492/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15476492"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "https://collections.library.yale.edu/manifests/15494132",
@@ -150,7 +495,30 @@
         "none": [
           "Partie septentrionale du royaume de Naples / par le Sr. Robert, ge\u0301ographe."
         ]
-      }
+      },
+      "width": 1000,
+      "height": 1000,
+      "items": [
+        {
+          "id": "https://collections.library.yale.edu/manifests/15494132/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://collections.library.yale.edu/manifests/15494132/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://collections.library.yale.edu/manifests/15494132/image",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1000,
+                "height": 1000
+              },
+              "target": "https://collections.library.yale.edu/manifests/15494132"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
